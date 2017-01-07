@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatisticalArbitrageBot", "StatisticalArbitrageBot\StatisticalArbitrageBot.csproj", "{1F160257-60E5-4005-A8BB-CD0B39A7F77B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F160257-60E5-4005-A8BB-CD0B39A7F77B}.Debug|x86.ActiveCfg = Debug|x86
+		{1F160257-60E5-4005-A8BB-CD0B39A7F77B}.Debug|x86.Build.0 = Debug|x86
+		{1F160257-60E5-4005-A8BB-CD0B39A7F77B}.Release|x86.ActiveCfg = Release|x86
+		{1F160257-60E5-4005-A8BB-CD0B39A7F77B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

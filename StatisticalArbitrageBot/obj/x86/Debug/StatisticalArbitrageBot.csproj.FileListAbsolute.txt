@@ -1,0 +1,16 @@
+c:\documents and settings\pmadan\my documents\visual studio 2010\Projects\StatisticalArbitrageBot\StatisticalArbitrageBot\bin\Debug\StatisticalArbitrageBot.exe.config
+c:\documents and settings\pmadan\my documents\visual studio 2010\Projects\StatisticalArbitrageBot\StatisticalArbitrageBot\bin\Debug\StatisticalArbitrageBot.exe
+c:\documents and settings\pmadan\my documents\visual studio 2010\Projects\StatisticalArbitrageBot\StatisticalArbitrageBot\bin\Debug\StatisticalArbitrageBot.pdb
+c:\documents and settings\pmadan\my documents\visual studio 2010\Projects\StatisticalArbitrageBot\StatisticalArbitrageBot\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\pmadan\my documents\visual studio 2010\Projects\StatisticalArbitrageBot\StatisticalArbitrageBot\obj\x86\Debug\StatisticalArbitrageBot.Properties.Resources.resources
+c:\documents and settings\pmadan\my documents\visual studio 2010\Projects\StatisticalArbitrageBot\StatisticalArbitrageBot\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\pmadan\my documents\visual studio 2010\Projects\StatisticalArbitrageBot\StatisticalArbitrageBot\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\pmadan\my documents\visual studio 2010\Projects\StatisticalArbitrageBot\StatisticalArbitrageBot\obj\x86\Debug\StatisticalArbitrageBot.exe
+c:\documents and settings\pmadan\my documents\visual studio 2010\Projects\StatisticalArbitrageBot\StatisticalArbitrageBot\obj\x86\Debug\StatisticalArbitrageBot.pdb
+c:\documents and settings\pmadan\my documents\visual studio 2010\Projects\StatisticalArbitrageBot\StatisticalArbitrageBot\obj\x86\Debug\StatisticalArbitrageBot.exe.licenses
+c:\documents and settings\pmadan\my documents\visual studio 2010\Projects\StatisticalArbitrageBot\StatisticalArbitrageBot\obj\x86\Debug\StatisticalArbitrageBot.Dashboard.resources
+c:\documents and settings\pmadan\my documents\visual studio 2010\Projects\StatisticalArbitrageBot\StatisticalArbitrageBot\obj\x86\Debug\StatisticalArbitrageBot.GraphicalDisplay.resources
+c:\documents and settings\pmadan\my documents\visual studio 2010\Projects\StatisticalArbitrageBot\StatisticalArbitrageBot\obj\x86\Debug\StatisticalArbitrageBot.MainEntry.resources
+c:\documents and settings\pmadan\my documents\visual studio 2010\Projects\StatisticalArbitrageBot\StatisticalArbitrageBot\bin\Debug\Common.dll
+C:\Documents and Settings\pmadan\my documents\visual studio 2010\Projects\StatisticalArbitrageBot\StatisticalArbitrageBot\obj\x86\Debug\StatisticalArbitrageBot.AssetMonitor.resources
+C:\Documents and Settings\pmadan\my documents\visual studio 2010\Projects\StatisticalArbitrageBot\StatisticalArbitrageBot\obj\x86\Debug\StatisticalArbitrageBot.PerformanceView.resources
