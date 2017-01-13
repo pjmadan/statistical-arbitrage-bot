@@ -12,6 +12,8 @@ using System.Data.SqlClient;
 using System.Xml;
 
 using System.Text.RegularExpressions;
+using StatisticalArbitrageBot.oauth;
+
 namespace StatisticalArbitrageBot
 {
     public partial class MainEntry : Form
