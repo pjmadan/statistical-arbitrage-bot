@@ -78,38 +78,34 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AssetMonitor.cs">
-      <SubType>Form</SubType>
-    </Compile>
     <Compile Include="AssetMonitor.Designer.cs">
       <DependentUpon>AssetMonitor.cs</DependentUpon>
     </Compile>
-    <Compile Include="Dashboard.cs">
-      <SubType>Form</SubType>
-    </Compile>
+    <Compile Include="controller\MainEntry.cs" />
+    <Compile Include="controller\MainEntry.Designer.cs" />
+    <Compile Include="controller\Program.cs" />
     <Compile Include="Dashboard.Designer.cs">
       <DependentUpon>Dashboard.cs</DependentUpon>
-    </Compile>
-    <Compile Include="GraphicalDisplay.cs">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="GraphicalDisplay.Designer.cs">
       <DependentUpon>GraphicalDisplay.cs</DependentUpon>
     </Compile>
-    <Compile Include="MainEntry.cs">
-      <SubType>Form</SubType>
-    </Compile>
     <Compile Include="MainEntry.Designer.cs">
       <DependentUpon>MainEntry.cs</DependentUpon>
     </Compile>
-    <Compile Include="PerformanceView.cs">
-      <SubType>Form</SubType>
-    </Compile>
+    <Compile Include="oauth\Manager.cs" />
     <Compile Include="PerformanceView.Designer.cs">
       <DependentUpon>PerformanceView.cs</DependentUpon>
     </Compile>
-    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="screens\AssetMonitor.cs" />
+    <Compile Include="screens\AssetMonitor.Designer.cs" />
+    <Compile Include="screens\Dashboard.cs" />
+    <Compile Include="screens\Dashboard.Designer.cs" />
+    <Compile Include="screens\GraphicalDisplay.cs" />
+    <Compile Include="screens\GraphicalDisplay.Designer.cs" />
+    <Compile Include="screens\PerformanceView.cs" />
+    <Compile Include="screens\PerformanceView.Designer.cs" />
     <EmbeddedResource Include="AssetMonitor.resx">
       <DependentUpon>AssetMonitor.cs</DependentUpon>
     </EmbeddedResource>
@@ -136,9 +132,6 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-    <None Include="app.config">
-      <SubType>Designer</SubType>
-    </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -148,6 +141,7 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <None Include="resources\app.config" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.0">
@@ -170,6 +164,13 @@
       <ProductName>Windows Installer 3.1</ProductName>
       <Install>true</Install>
     </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Embedded_resource Include="controller\MainEntry.resx" />
+    <Embedded_resource Include="screens\AssetMonitor.resx" />
+    <Embedded_resource Include="screens\Dashboard.resx" />
+    <Embedded_resource Include="screens\GraphicalDisplay.resx" />
+    <Embedded_resource Include="screens\PerformanceView.resx" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
